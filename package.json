@@ -15,5 +15,8 @@
     "materialize-css": "^1.0.0-rc.2",
     "morgan": "~1.9.0",
     "node-sass": "^4.9.2"
+  },
+  "engines": {
+    "node": "4.1.1"
   }
 }
