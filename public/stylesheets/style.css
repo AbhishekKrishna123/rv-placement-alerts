@@ -8,3 +8,7 @@ body {
 .card-title {
   font-weight: 500 !important;
 }
+
+.container {
+  margin-bottom: 5rem !important;
+}
