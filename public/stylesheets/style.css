@@ -18,3 +18,10 @@ body {
 .page-footer {
   flex-shrink: 0;
 }
+
+.icon {
+  font-weight: 700;
+  padding-right: 1.5rem;
+  padding-left: 0.5rem;
+  color:#444;
+}
