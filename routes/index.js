@@ -6,6 +6,10 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'RV Placement Alerts' });
 });
 
+router.get('/spc', function(req, res, next) {
+  res.render('spc', { title: 'RV Placement Alerts' });
+});
+
 router.get('/placed', function(req, res, next) {
 
   var list = [
